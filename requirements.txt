@@ -1,0 +1,14 @@
+numpy
+pandas
+langchain
+huggingface_hub
+openai
+streamlit
+langchain-openai
+python-dotenv
+langchain_community
+langchain_core
+langchain_openai
+langserve
+fastapi
+uvicorn
